@@ -46,7 +46,7 @@ Python 3.10+ (developed on 3.12). No third-party packages.
 Nothing to build. Clone and run:
 
 ```bash
-git clone <https://github.com/shreya27004/fleetwatch2> && cd <repo>
+git clone <https://github.com/shreya27004/fleetwatch2> && cd <fleetwatch>
 ```
 
 ## Run the application
